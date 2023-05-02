@@ -10002,3 +10002,13 @@ h6,
   border-radius: 20px;
   margin-bottom: 20px;
 }
+
+.mp3play-btn {
+  position: fixed;
+  z-index: 999;
+  left: 10px;
+  bottom: 10px;
+}
+
+
+
